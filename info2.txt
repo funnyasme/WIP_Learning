@@ -1,0 +1,24 @@
+ML learning and our platform links
+http://scikit-learn.org/stable/developers/contributing.html#different-objects
+
+http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+
+https://auto-ml.readthedocs.io/en/latest/getting_started.html
+
+https://git.rockfin.com/DataScience/AI-Income-Calculator-Service/tree/add-gic-feature/training/gross_income_calculator
+
+
+interview questions
+https://www.springboard.com/blog/machine-learning-interview-questions/
+
+---------------------------------------------------------
+
+http://index-of.es/Varios-2/Machine%20Learning%20With%20Python.pdf
+
+http://www.deeplearningitalia.com/wp-content/uploads/2017/12/Dropbox_Chollet.pdf
+https://github.com/fchollet/deep-learning-with-python-notebooks
+
+https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/
+
