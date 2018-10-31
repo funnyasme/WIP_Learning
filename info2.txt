@@ -1,4 +1,15 @@
 ML learning and our platform links
+
+------------------------------------
+Model Tools
+https://git.rockfin.com/DataSciencePlatform/Model-Tools
+
+
+playdoh
+https://git.rockfin.com/DataScience/playdoh/tree/master/preprocessing/components
+
+--------------------------------------
+
 http://scikit-learn.org/stable/developers/contributing.html#different-objects
 
 http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
@@ -10,6 +21,7 @@ https://auto-ml.readthedocs.io/en/latest/getting_started.html
 https://git.rockfin.com/DataScience/AI-Income-Calculator-Service/tree/add-gic-feature/training/gross_income_calculator
 
 
+-----------------------------------------------------
 interview questions
 https://www.springboard.com/blog/machine-learning-interview-questions/
 
